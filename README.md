@@ -165,10 +165,9 @@ print(me.life_status())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/anuragwaskle2022/)
+[![Instagram](https://www.instagram.com/anurag.waskle/)
+[![Portfolio](https://www.linkedin.com/in/anuragwaskle2022/))
 
 </div>
 
@@ -198,7 +197,7 @@ print(me.life_status())
 ## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
-  <img src="https://github.com/AnuragWaskle/AnuragWaskle/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFhNG40eXJpNjBvY284aDRjOTc1Nzg4aW03c2N0bzZwZ2FmbzlpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8NkSPltT13H2/giphy.gif" alt="Snake animation" />
 </div>
 
 ---
