@@ -73,16 +73,16 @@ const anurag = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnuragYourUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragYourUsername&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnuragWaskle&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragWaskle&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragYourUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragWaskle&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnuragYourUsername&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnuragWaskle&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -156,7 +156,7 @@ print(me.life_status())
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragYourUsername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragWaskle&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -198,7 +198,7 @@ print(me.life_status())
 ## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
-  <img src="https://github.com/AnuragYourUsername/AnuragYourUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/AnuragWaskle/AnuragWaskle/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -211,7 +211,7 @@ print(me.life_status())
 
 ### Thanks for stopping by! Let's build something amazing together! 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/AnuragYourUsername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/AnuragWaskle/count.svg)
 
 </div>
 
